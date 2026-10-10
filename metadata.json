@@ -1,0 +1,9 @@
+{
+  "name": "EdgeTensor",
+  "description": "Authentic on-device TensorFlow Lite edge inference engine with hardware acceleration (GPU, NNAPI, XNNPACK), real-time camera computer vision, tensor inspector, and latency profiler.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+
+}
